@@ -1,0 +1,13 @@
+*.csv
+*.parquet
+*.vscode
+*.zip
+
+private/
+lab/
+data/
+output/
+.venv/
+venv/
+.env
+env
