@@ -217,8 +217,8 @@ Project Link: [https://github.com/github_username/repo_name](https://github.com/
 <!-- ACKNOWLEDGMENTS -->
 ## Acknowledgments
 
-* []()
-* []()
+* [README Template from othneildrew](https://github.com/othneildrew/Best-README-Template)
+* [Repo Template from Grizmo](https://github.com/Grizmo2610/TemplateWithAI)
 * []()
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
