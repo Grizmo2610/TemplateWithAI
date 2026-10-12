@@ -93,14 +93,7 @@ Here's a blank template to get started. To avoid retyping too much info, do a se
 
 ### Built With
 
-* [![Next][Next.js]][Next-url]
-* [![React][React.js]][React-url]
-* [![Vue][Vue.js]][Vue-url]
-* [![Angular][Angular.io]][Angular-url]
-* [![Svelte][Svelte.dev]][Svelte-url]
-* [![Laravel][Laravel.com]][Laravel-url]
-* [![Bootstrap][Bootstrap.com]][Bootstrap-url]
-* [![JQuery][JQuery.com]][JQuery-url]
+ [![Next][Next.js]][Next-url] [![React][React.js]][React-url] [![Vue][Vue.js]][Vue-url] [![Angular][Angular.io]][Angular-url] [![Svelte][Svelte.dev]][Svelte-url] [![Laravel][Laravel.com]][Laravel-url] [![Bootstrap][Bootstrap.com]][Bootstrap-url] [![JQuery][JQuery.com]][JQuery-url] [![Python][Python.org]][Python-url] [![C][C]][C-url] [![C++][CPP]][CPP-url] [![Scikit-learn][Sklearn]][Sklearn-url] [![Pandas][Pandas]][Pandas-url] [![Polars][Polars]][Polars-url] [![Apache Spark][Spark]][Spark-url] [![NumPy][NumPy]][NumPy-url] [![Matplotlib][Matplotlib]][Matplotlib-url] [![Seaborn][Seaborn]][Seaborn-url] [![TensorFlow][TensorFlow]][TensorFlow-url] [![PyTorch][PyTorch]][PyTorch-url] [![Keras][Keras]][Keras-url] [![OpenCV][OpenCV]][OpenCV-url] [![FastAPI][FastAPI]][FastAPI-url] [![Flask][Flask]][Flask-url] [![PostgreSQL][PostgreSQL]][PostgreSQL-url] [![MySQL][MySQL]][MySQL-url] [![MongoDB][MongoDB]][MongoDB-url] [![Redis][Redis]][Redis-url] [![Docker][Docker]][Docker-url] [![Kubernetes][Kubernetes]][Kubernetes-url] [![Git][Git]][Git-url] [![Linux][Linux]][Linux-url] [![Jupyter][Jupyter]][Jupyter-url] [![Anaconda][Anaconda]][Anaconda-url] [![HuggingFace][HuggingFace]][HuggingFace-url]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -257,3 +250,83 @@ Project Link: [https://github.com/github_username/repo_name](https://github.com/
 [Bootstrap-url]: https://getbootstrap.com
 [JQuery.com]: https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white
 [JQuery-url]: https://jquery.com 
+[Python.org]: https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white
+[Python-url]: https://python.org
+
+[C]: https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white
+[C-url]: https://en.wikipedia.org/wiki/C_(programming_language)
+
+[CPP]: https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white
+[CPP-url]: https://isocpp.org
+
+[Sklearn]: https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white
+[Sklearn-url]: https://scikit-learn.org
+
+[Pandas]: https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white
+[Pandas-url]: https://pandas.pydata.org
+
+[Polars]: https://img.shields.io/badge/Polars-CD792C?style=for-the-badge&logo=polars&logoColor=white
+[Polars-url]: https://pola.rs
+
+[Spark]: https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white
+[Spark-url]: https://spark.apache.org
+
+[NumPy]: https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white
+[NumPy-url]: https://numpy.org
+
+[Matplotlib]: https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white
+[Matplotlib-url]: https://matplotlib.org
+
+[Seaborn]: https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logo=python&logoColor=white
+[Seaborn-url]: https://seaborn.pydata.org
+
+[TensorFlow]: https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white
+[TensorFlow-url]: https://tensorflow.org
+
+[PyTorch]: https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white
+[PyTorch-url]: https://pytorch.org
+
+[Keras]: https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white
+[Keras-url]: https://keras.io
+
+[OpenCV]: https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white
+[OpenCV-url]: https://opencv.org
+
+[FastAPI]: https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white
+[FastAPI-url]: https://fastapi.tiangolo.com
+
+[Flask]: https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white
+[Flask-url]: https://flask.palletsprojects.com
+
+[PostgreSQL]: https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white
+[PostgreSQL-url]: https://postgresql.org
+
+[MySQL]: https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white
+[MySQL-url]: https://mysql.com
+
+[MongoDB]: https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white
+[MongoDB-url]: https://mongodb.com
+
+[Redis]: https://img.shields.io/badge/Redis-FF4438?style=for-the-badge&logo=redis&logoColor=white
+[Redis-url]: https://redis.io
+
+[Docker]: https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white
+[Docker-url]: https://docker.com
+
+[Kubernetes]: https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white
+[Kubernetes-url]: https://kubernetes.io
+
+[Git]: https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white
+[Git-url]: https://git-scm.com
+
+[Linux]: https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black
+[Linux-url]: https://kernel.org
+
+[Jupyter]: https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white
+[Jupyter-url]: https://jupyter.org
+
+[Anaconda]: https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white
+[Anaconda-url]: https://anaconda.com
+
+[HuggingFace]: https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black
+[HuggingFace-url]: https://huggingface.co
